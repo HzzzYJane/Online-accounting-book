@@ -1,0 +1,201 @@
+{
+  "categories": [
+    {
+      "name": "Travel",
+      "iconName": "ios-plane",
+      "id": "1",
+      "type": "outcome"
+    },
+    {
+      "name": "Dinner",
+      "iconName": "ios-restaurant",
+      "id": "2",
+      "type": "outcome"
+    },
+    {
+      "name": "Shopping",
+      "iconName": "ios-basket",
+      "id": "3",
+      "type": "outcome"
+    },
+    {
+      "name": "Digital",
+      "iconName": "ios-phone-portrait",
+      "id": "4",
+      "type": "outcome"
+    },
+    {
+      "name": "Transportation",
+      "iconName": "ios-train",
+      "id": "5",
+      "type": "outcome"
+    },
+    {
+      "name": "Entertainment",
+      "iconName": "ios-beer",
+      "id": "6",
+      "type": "outcome"
+    },
+    {
+      "name": "Car",
+      "iconName": "ios-car",
+      "id": "7",
+      "type": "outcome"
+    },
+    {
+      "name": "Healthcare",
+      "iconName": "ios-medkit",
+      "id": "8",
+      "type": "outcome"
+    },
+    {
+      "name": "Sports",
+      "iconName": "ios-football",
+      "id": "14",
+      "type": "outcome"
+    },
+    {
+      "name": "Pets",
+      "iconName": "ios-paw",
+      "id": "9",
+      "type": "outcome"
+    },
+    {
+      "name": "Other",
+      "iconName": "ios-apps",
+      "id": "14",
+      "type": "outcome"
+    },
+    {
+      "name": "Salary",
+      "iconName": "ios-card",
+      "id": "10",
+      "type": "income"
+    },
+    {
+      "name": "Part-time",
+      "iconName": "ios-cash",
+      "id": "11",
+      "type": "income"
+    },
+    {
+      "name": "Financing",
+      "iconName": "logo-yen",
+      "id": "12",
+      "type": "income"
+    },
+    {
+      "name": "Gift",
+      "iconName": "logo-yen",
+      "id": "13",
+      "type": "income"
+    },
+    {
+      "name": "Other",
+      "iconName": "ios-apps",
+      "id": "15",
+      "type": "income"
+    }
+  ],
+  "items": [
+    {
+      "title": "Seattle",
+      "price": 800,
+      "date": "2020-05-20",
+      "monthCategory": "2020-5",
+      "timestamp": 1589932800000,
+      "id": "_xijv8ve0u",
+      "cid": "1"
+    },
+    {
+      "title": "Supermarket",
+      "price": 300,
+      "date": "2020-09-12",
+      "monthCategory": "2020-9",
+      "timestamp": 1599868800000,
+      "id": "_1arpdfbtg",
+      "cid": "3"
+    },
+    {
+      "title": "korean food",
+      "price": 70,
+      "date": "2020-09-12",
+      "monthCategory": "2020-9",
+      "timestamp": 1599868800000,
+      "id": "_7s9x2pesp",
+      "cid": "2"
+    },
+    {
+      "title": "Szechuan cuisine",
+      "price": 50,
+      "date": "2020-09-20",
+      "monthCategory": "2020-9",
+      "timestamp": 1600560000000,
+      "id": "_yfmvmhtob",
+      "cid": "2"
+    },
+    {
+      "title": "Rent",
+      "price": 1500,
+      "date": "2020-09-02",
+      "monthCategory": "2020-9",
+      "timestamp": 1599004800000,
+      "id": "_px7epbm8l",
+      "cid": "14"
+    },
+    {
+      "title": "Supermarket",
+      "price": 120,
+      "date": "2020-09-07",
+      "monthCategory": "2020-9",
+      "timestamp": 1599436800000,
+      "id": "_fx0j5bgu9",
+      "cid": "3"
+    },
+    {
+      "title": "belt",
+      "price": 600,
+      "date": "2020-03-09",
+      "monthCategory": "2020-3",
+      "timestamp": 1583712000000,
+      "id": "_lps9cdxc2",
+      "cid": "3"
+    },
+    {
+      "title": "make-up",
+      "price": 800,
+      "date": "2020-04-09",
+      "monthCategory": "2020-4",
+      "timestamp": 1586390400000,
+      "id": "_4swxp35u7",
+      "cid": "3"
+    },
+    {
+      "title": "photo",
+      "price": 460,
+      "date": "2020-07-09",
+      "monthCategory": "2020-7",
+      "timestamp": 1594252800000,
+      "id": "_1e9luw625",
+      "cid": "6"
+    },
+    {
+      "title": "photo",
+      "price": 450,
+      "date": "2020-09-07",
+      "monthCategory": "2020-9",
+      "timestamp": 1599436800000,
+      "id": "_hod9pvoml",
+      "cid": "6"
+    },
+    {
+      "title": "Student insurance",
+      "price": 1000,
+      "date": "2020-09-03",
+      "monthCategory": "2020-9",
+      "timestamp": 1599091200000,
+      "id": "_majqedtwc",
+      "cid": "8"
+    }
+  ]
+}
